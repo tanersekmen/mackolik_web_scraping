@@ -1,0 +1,249 @@
+Glasgow Ranger 
+ - 
+Lyon 
+Brondby 
+ - 
+Sparta Prag 
+Monaco 
+ - 
+Sturm Graz 
+Psv Eindhoven 
+ - 
+Real Sociedad 
+Leicester 
+ - 
+Napoli 
+E.Frankfurt 
+ - 
+Fenerbahçe 
+Olympiakos 
+ - 
+Antwerp 
+L.Moskova 
+ - 
+Marsilya 
+Galatasaray 
+ - 
+Lazio 
+Midtjylland 
+ - 
+Ludogorets 
+Kizilyildiz 
+ - 
+Braga 
+B.Leverkusen 
+ - 
+Ferencvaros 
+Real Betis 
+ - 
+Celtic 
+Rapid Wien 
+ - 
+Genk 
+Dinamo Zagreb 
+ - 
+West Ham 
+Helsinki 
+ - 
+Lask Linz 
+Anorthosis 
+ - 
+Partizan Belgra 
+Flora Tallinn 
+ - 
+Gent 
+Bodo Glimt 
+ - 
+Zoria Luhansk 
+Roma 
+ - 
+Cska Sofia 
+Jablonec 
+ - 
+Cfr Cluj 
+Randers 
+ - 
+Az Alkmaar 
+Slavia Prag 
+ - 
+Union Berlin 
+Slovan Bratisl 
+ - 
+Fc Kopenhag 
+Lincoln Red Im 
+ - 
+Paok 
+Mura 
+ - 
+Vitesse 
+Rennes 
+ - 
+Tottenham 
+Kairat Almaty 
+ - 
+Omonia 
+Qarabagh 
+ - 
+Basel 
+Kocaelispor 
+ - 
+Balikesirspor 
+İstanbulspor 
+ - 
+Ankaragücü 
+Keçiörengücü 
+ - 
+Boluspor 
+Academica 
+ - 
+Estrela 
+Atletico San L 
+ - 
+Club Tijuana 
+Cruzeiro 
+ - 
+Operario 
+Remo 
+ - 
+Avai 
+Regatas 
+ - 
+Vasco Da Gama 
+Varnamo 
+ - 
+Jonkopings 
+Cruz Azul 
+ - 
+Monterrey 
+Al Nasr 
+ - 
+Khorfakkan Club 
+Al Dhafra 
+ - 
+Banniyas 
+Al Ahli Manama 
+ - 
+Manama 
+Al Hadd 
+ - 
+Al Najma Manama 
+Gks Tychy 
+ - 
+Chrobry Glogow 
+Ks Polkowice 
+ - 
+Stomil Olsztyn 
+Gks Katowice 
+ - 
+Arka Gdynia 
+Al Faisaly 
+ - 
+Al Feiha 
+Al Baten 
+ - 
+Al Taee 
+Arnavutluk (K) 
+ - 
+Kosova (K) 
+Türkiye (K) 
+ - 
+Portekiz (K) 
+Aluminij 
+ - 
+Koper 
+Backa Topola 
+ - 
+Napredak 
+Al Shamal 
+ - 
+Al Sailiya 
+Al Arabi 
+ - 
+Al Duhail Sc 
+Santos De Guap 
+ - 
+Guadalupe 
+Deportivo Sapr 
+ - 
+Guanacasteca 
+Herediano 
+ - 
+Sporting San Jo 
+Cobreloa 
+ - 
+Union San Felip 
+Magallanes 
+ - 
+Puerto Montt 
+Capiapo 
+ - 
+Fernandez Vial 
+Univ De Concep 
+ - 
+Coquimbo Unido 
+Barnechea 
+ - 
+Csd Rangers 
+San Marcos Ari 
+ - 
+Santiago Mornin 
+Depor Tachira 
+ - 
+Zulia 
+Caracas Fc 
+ - 
+Lala 
+Depor Motagua 
+ - 
+Vida 
+Al Salt 
+ - 
+Al Wihdat Amman 
+Aqaba 
+ - 
+Al Baqaa 
+Jbk 
+ - 
+Narpes Kraft 
+Tepatitlán De  
+ - 
+Cancun Fc 
+Sogdiyona Jizz 
+ - 
+Bunyodkor 
+Nasaf Qarshi 
+ - 
+Qizilqum Zarafs 
+Lokomotiv Taşk 
+ - 
+Surkhon 
+Torpedo Kutais 
+ - 
+Shukura 
+Saburtalo  
+ - 
+Telavi 
+Dinamo Batumi 
+ - 
+Lokomotiv Tb 
+Dinamo Tiflis 
+ - 
+Dila Gori 
+Deportivo Llac 
+ - 
+Santos 
+Union Comercio 
+ - 
+Deportivo Coops 
+Cultural Santa 
+ - 
+Atletico Grau 
+Deportes Tolim 
+ - 
+La Equidad 
+Pereira 
+ - 
+Deportivo Pasto 
+3 De Febrero 
+ - 
+12 De Octubre 
