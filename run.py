@@ -1,7 +1,7 @@
 from data_scraping import scraping
 
 
-driver_path = 'C:/Users/tnr_s/Desktop/chromedriver.exe'  
+driver_path = 'Your chrome path'  
 option = "--window-size=1920,1200"
 mackolik = scraping(driver_path = driver_path, option = option)
 mackolik.teams()
