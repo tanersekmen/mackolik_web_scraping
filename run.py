@@ -1,4 +1,4 @@
-from data_scraping import scraping
+from data_scraping import Scraping
 
 
 driver_path = 'Your chrome path'  
