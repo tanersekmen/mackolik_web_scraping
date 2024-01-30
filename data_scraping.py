@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 #my_url = 'http://arsiv.mackolik.com/Iddaa-Programi'
 #93.0.4577.63
 
-class scraping:
+class Scraping:
     def __init__(self, driver_path, option):
         """
             Parameters:
